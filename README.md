@@ -6,7 +6,7 @@ Master of ❤ **WordPress** [ WooCommerce ],
 PHP, JavaScript [ Vue.js, Node.js, Express ]
 
 - ![](https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_telegram_Airplane_Air_plane_paper_airplane-33-24.png) Telegram: <a href="https://telegram.me/irtek_dev" target="_blank">@irtek_dev</a>
-- ![](https://cdn0.iconfinder.com/data/icons/social-and-online-logos/40/Instagram-21.png) Instagram: <a href="https://instagram.com/yurginets" target="_blank">@yurginets</a>
+- ![](https://cdn0.iconfinder.com/data/icons/social-and-online-logos/40/Instagram-21.png) Instagram: <a href="https://www.instagram.com/yurginets/" target="_blank">@yurginets</a>
 
 ### Get in touch
 
