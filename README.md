@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Master of **WordPress** [ WooCommerce ],  
+PHP, JavaScript [ Vue.js, Node.js, Express ]
+
+![](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-24.png) Telegram: <a href="https://telegram.me/irtek_dev" target="_blank">@irtek_dev</a>
+
+
 <!--
 **irtek/irtek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
