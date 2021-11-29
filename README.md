@@ -3,7 +3,7 @@
 Master of **WordPress** [ WooCommerce ],  
 PHP, JavaScript [ Vue.js, Node.js, Express ]
 
-![](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-24.png) Telegram: <a href="https://telegram.me/irtek_dev" target="_blank">@irtek_dev</a>
+![](https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_telegram_Airplane_Air_plane_paper_airplane-33-24.png) Telegram: <a href="https://telegram.me/irtek_dev" target="_blank">@irtek_dev</a>
 
 
 <!--
