@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Full Stack Backend [PHP] & Frontend Developer based in Irkutsk, <a href="https://baikal.place?utm_source=github" target="_blank">Baikal</a>, Russia
+Full Stack Backend [PHP] & Frontend Developer based in Irkutsk, <a href="https://baikal.place?utm_source=github" target="_Blank">Baikal</a>, Russia
 
 Master of ❤ **WordPress** [ WooCommerce ],  
 PHP, JavaScript [ Vue.js, Node.js, Express ]
