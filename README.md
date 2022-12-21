@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Full Stack Backend [PHP] & Frontend Developer based in Irkutsk, <a href="https://baikal.place?from=github" target="_Blank">Baikal</a>, Russia
+Full Stack Backend [PHP] & Frontend Developer based in Irkutsk, <a href="https://baikal.place?from=github" target="_blank">Baikal</a>, Russia
 
 Master of ❤ **WordPress** [ WooCommerce ],  
 PHP, JavaScript [ Vue.js, Node.js, Express ]  
@@ -13,18 +13,3 @@ Pug, SCSS, Gulp, Webpack
 
 - <a href="https://freelance.habr.com/freelancers/irtek" target="_blank">Профиль Хабр фриланс</a>
 - <a href="https://qna.habr.com/user/irtek" target="_blank">Хабр Q&A</a>
-
-<!--
-**irtek/irtek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
