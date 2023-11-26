@@ -6,10 +6,11 @@ Master of ❤ **WordPress** [ WooCommerce ],
 PHP, JavaScript [ Vue.js, Node.js, Express ]  
 Pug, SCSS, Gulp, Webpack
 
-- ![](https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_telegram_Airplane_Air_plane_paper_airplane-33-24.png) Telegram: <a href="https://telegram.me/irtek_dev" target="_blank">@irtek_dev</a>
-- ![](https://cdn0.iconfinder.com/data/icons/social-and-online-logos/40/Instagram-21.png) Instagram: <a href="https://www.instagram.com/yurginets/" target="_blank">@yurginets</a>
+- Telegram: <a href="https://telegram.me/irtek_dev" target="_Blank">@irtek_dev</a>
+- Instagram: <a href="https://www.instagram.com/irtek.dev/" target="_Blank">@itek.dev</a>
+- Twitter <a href="https://twitter.com/yurgens" target="_Blank">@yurgens</a>
 
 **Get in touch**
 
-- <a href="https://freelance.habr.com/freelancers/irtek" target="_blank">Профиль Хабр фриланс</a>
-- <a href="https://qna.habr.com/user/irtek" target="_blank">Хабр Q&A</a>
+- <a href="https://freelance.habr.com/freelancers/irtek" target="_Blank">Профиль Хабр фриланс</a>
+- <a href="https://qna.habr.com/user/irtek" target="_Blank">Хабр Q&A</a>
