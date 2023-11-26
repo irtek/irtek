@@ -7,7 +7,7 @@ PHP, JavaScript [ Vue.js, Node.js, Express ]
 Pug, SCSS, Gulp, Webpack
 
 - Telegram: <a href="https://telegram.me/irtek_dev" target="_Blank">@irtek_dev</a>
-- Instagram: <a href="https://www.instagram.com/irtek.dev/" target="_Blank">@itek.dev</a>
+- Instagram: <a href="https://www.instagram.com/irtek.dev/" target="_Blank">@irtek.dev</a>
 - Twitter <a href="https://twitter.com/yurgens" target="_Blank">@yurgens</a>
 
 **Get in touch**
